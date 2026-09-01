@@ -30,7 +30,7 @@
 
 ---
 
-### 📊 GitHub Stats
+
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Jehooooo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=26a641&icon_color=26a641&text_color=c9d1d9" height="165" alt="GitHub Stats" />
