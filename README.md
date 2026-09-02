@@ -1,4 +1,4 @@
-# Hi, I'm Jeho 👋
+# Hi, I'm Jeho
 
 3rd Year BS Computer Science Student @ DMMMSU-SLUC | Full-Stack Web Developer & AI Enthusiast
 
@@ -10,6 +10,19 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,py,java,html,css,react,nextjs,vite,tailwind,flask,django,mysql,mongodb,git,github,vercel,ps,pr" alt="My Skills & Tools" />
   </a>
+</p>
+
+---
+
+## 📊 Most Used Languages & GitHub Analytics
+
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jehooooo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=26a641&text_color=c9d1d9" height="175" alt="Most Used Programming Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jehooooo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=26a641&icon_color=26a641&text_color=c9d1d9" height="175" alt="GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jehooooo&theme=tokyonight&hide_border=true&background=0d1117&ring=26a641&fire=26a641&currStreakLabel=26a641" height="175" alt="GitHub Streak" />
 </p>
 
 ---
@@ -26,13 +39,4 @@
   <a href="mailto:jehosuebiscarra@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jehooooo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=26a641&icon_color=26a641&text_color=c9d1d9" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jehooooo&theme=tokyonight&hide_border=true&background=0d1117&ring=26a641&fire=26a641&currStreakLabel=26a641" height="165" alt="GitHub Streak" />
 </p>
