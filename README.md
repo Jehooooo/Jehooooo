@@ -22,7 +22,7 @@
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=Jehooooo&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Jehooooo&theme=tokyonight&hide_border=true&border_radius=8" height="175" alt="GitHub Streak Stats" />
 </p>
 
 ---
