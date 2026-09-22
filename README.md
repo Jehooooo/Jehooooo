@@ -18,7 +18,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Jehooooo&hide=java,Java&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=26a641&text_color=c9d1d9" height="175" alt="Most Used Programming Languages" />
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Jehooooo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=26a641&icon_color=26a641&text_color=c9d1d9" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Jehooooo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=26a641&icon_color=26a641&text_color=c9d1d9" height="175" alt="GitHub Stats"/>
 </p>
 
 <p align="left">
